@@ -1,0 +1,45 @@
+1 man sudo_root
+2 wsl
+3 wsl --install
+4 touch readme1.txt
+5 clear
+6 touch readme2.txt
+7 cat readme2.txt
+8 echo "hi"
+9 echo "hello world"
+10 echo "hello world \n from linux"
+11 echo --help
+12 man echo
+13 echo
+14 echo -e "hello world \n from linux" > test.txt
+15 cat test.txt
+16 echo -e "second" > test.txt
+17 cat test.txt
+18 mkdir dir1
+19 mkdir dir2
+20 mkdir .dir
+21 ls
+22 ls -a
+23 ls -l
+24 rmdir dir1
+25 rmdir dir2
+26 touch test.txt
+27 rm test.txt 
+28 man rm
+29 mkdir dir4
+30 mkdir -p dir4
+31 mkdir --l
+32 mkdir --help
+33 ls
+34 cd dir4/
+35 pwd
+36 touch f1
+37 ls
+38 cd ..
+39 ls
+40 cp -r dir4dir5
+41 cp -r dir4 \ dir5
+42 mv dir5 dir6
+43 ls -l
+44 history > day2.txt
+

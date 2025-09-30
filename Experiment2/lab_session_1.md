@@ -1,0 +1,6 @@
+Script started on 2025-09-29 21:45:07+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="48"]
+[?2004h]0;vandana_yadav_1803@manoj: /mnt/d/Linuxlabexperiments/Experiment2[01;32mvandana_yadav_1803@manoj[00m:[01;34m/mnt/d/Linuxlabexperiments/Experiment2[00m$ 
+[?2004l[?2004h]0;vandana_yadav_1803@manoj: /mnt/d/Linuxlabexperiments/Experiment2[01;32mvandana_yadav_1803@manoj[00m:[01;34m/mnt/d/Linuxlabexperiments/Experiment2[00m$ exit
+[?2004lexit
+
+Script done on 2025-09-29 21:45:11+00:00 [COMMAND_EXIT_CODE="0"]
