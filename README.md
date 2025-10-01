@@ -1,17 +1,15 @@
-# Linux Lab Experiments
+# Linuxexperiments
 
-This repository contains all linux shell scripting lab experiments.
+Here are my Linux shell scripting experiments.
 
-## Experiment Folders
+## Experiment Folder
 
-- [Exp3](D:\Linuxlabexperiments\Experiment1)
-- [Exp2](D:\Linuxlabexperiments\Experiment2)
-- [Exp3](D:\Linuxlabexperiments\Experiment3)
-- [Exp4](D:\Linuxlabexperiments\Experiment4)
-- [Exp5](
-- [Exp6](./Exp6)
-- [Exp7](./Exp7)
-- [Exp8](./Exp8)
-- [Exp9](./Exp9)
-
-Each folder contains all files related to that experiment.
+- [Exp1](./Experiment1)
+- [Exp2](./Experiment2)
+- [Exp3](./Experiment3)
+- [Exp4](./Experiment4)
+- [Exp5](./Experiment5)
+- [Exp6](./Experiment6)
+- [Exp7](./Experiment7)
+- [Exp8](./Experiment8)
+- [Exp9](./Experiment9)
