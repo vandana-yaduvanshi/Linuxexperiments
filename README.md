@@ -1,19 +1,21 @@
-# Linux Shell Scripting Labs (Lab 01 to Lab 09)
+# Linux Shell Scripting Labs (Lab 03 to Lab 11)
 
-This repository contains all the Linux Shell Scripting experiments from Lab 01 to Lab 09, completed as part of the Linux and Shell Scripting course at UPES.  
-Each lab folder includes the required `.sh` scripts along with output screenshots demonstrating successful execution.
+This repository contains Linux Shell Scripting experiments completed as part of the Linux & Shell Scripting Laboratory course at UPES.
+Each lab directory consists of required shell scripts with execution output screenshots.
 
 ---
 
-## Lab Folders
+## Lab Directories
 
-- [Lab 03](./Lab3/)
-- [Lab 04](./Lab4/)
-- [Lab 05](./Lab5/)
-- [Lab 06](./Lab6/)
-- [Lab 07](./Lab7/)
-- [Lab 08](./Lab8/)
-- [Lab 09](./Lab9/)
+- [Lab03](./Lab03/)
+- [Lab04](./Lab04/)
+- [Lab05](./Lab05/)
+- [Lab06](./Lab06/)
+- [Lab07](./Lab07/)
+- [Lab08](./Lab08/)
+- [Lab09](./Lab09/)
+- [Lab10](./Lab10/)
+- [Lab11](./Lab11/)
 
 ---
 
@@ -22,8 +24,8 @@ Each lab folder includes the required `.sh` scripts along with output screenshot
 **Name:** Vandana Yadav  
 **SAP ID:** 590029262  
 **Batch:** 78  
-**University:** UPES, Bidholi  
-**Course:** Linux & Shell Scripting Lab
+**University:** UPES, Dehradun (Bidholi Campus)  
+**Course:** Linux & Shell Scripting Lab  
 
 ---
 
